@@ -1,0 +1,3 @@
+C:/mipt/coding-3-sem/4 sem/task/build/CMakeFiles/test.dir
+C:/mipt/coding-3-sem/4 sem/task/build/CMakeFiles/edit_cache.dir
+C:/mipt/coding-3-sem/4 sem/task/build/CMakeFiles/rebuild_cache.dir

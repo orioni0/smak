@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/mipt/coding-3-sem/4 sem/task/build",
+  "command": "C:\\dev\\tools\\llvm\\bin\\clang++.exe -I\"C:/mipt/coding-3-sem/4 sem/task/include\" -g -o CMakeFiles\\test.dir\\src\\main.cpp.obj -c \"C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\main.cpp\"",
+  "file": "C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\main.cpp",
+  "output": "CMakeFiles\\test.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/mipt/coding-3-sem/4 sem/task/build",
+  "command": "C:\\dev\\tools\\llvm\\bin\\clang++.exe -I\"C:/mipt/coding-3-sem/4 sem/task/include\" -g -o CMakeFiles\\test.dir\\src\\utils.cpp.obj -c \"C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\utils.cpp\"",
+  "file": "C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\utils.cpp",
+  "output": "CMakeFiles\\test.dir\\src\\utils.cpp.obj"
+},
+{
+  "directory": "C:/mipt/coding-3-sem/4 sem/task/build",
+  "command": "C:\\dev\\tools\\llvm\\bin\\clang++.exe -I\"C:/mipt/coding-3-sem/4 sem/task/include\" -g -o CMakeFiles\\test.dir\\src\\vec3.cpp.obj -c \"C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\vec3.cpp\"",
+  "file": "C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\vec3.cpp",
+  "output": "CMakeFiles\\test.dir\\src\\vec3.cpp.obj"
+},
+{
+  "directory": "C:/mipt/coding-3-sem/4 sem/task/build",
+  "command": "C:\\dev\\tools\\llvm\\bin\\clang++.exe -I\"C:/mipt/coding-3-sem/4 sem/task/include\" -g -o CMakeFiles\\test.dir\\src\\transformations.cpp.obj -c \"C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\transformations.cpp\"",
+  "file": "C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\transformations.cpp",
+  "output": "CMakeFiles\\test.dir\\src\\transformations.cpp.obj"
+},
+{
+  "directory": "C:/mipt/coding-3-sem/4 sem/task/build",
+  "command": "C:\\dev\\tools\\llvm\\bin\\clang++.exe -I\"C:/mipt/coding-3-sem/4 sem/task/include\" -g -o CMakeFiles\\test.dir\\src\\ray.cpp.obj -c \"C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\ray.cpp\"",
+  "file": "C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\ray.cpp",
+  "output": "CMakeFiles\\test.dir\\src\\ray.cpp.obj"
+},
+{
+  "directory": "C:/mipt/coding-3-sem/4 sem/task/build",
+  "command": "C:\\dev\\tools\\llvm\\bin\\clang++.exe -I\"C:/mipt/coding-3-sem/4 sem/task/include\" -g -o CMakeFiles\\test.dir\\src\\camera.cpp.obj -c \"C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\camera.cpp\"",
+  "file": "C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\camera.cpp",
+  "output": "CMakeFiles\\test.dir\\src\\camera.cpp.obj"
+},
+{
+  "directory": "C:/mipt/coding-3-sem/4 sem/task/build",
+  "command": "C:\\dev\\tools\\llvm\\bin\\clang++.exe -I\"C:/mipt/coding-3-sem/4 sem/task/include\" -g -o CMakeFiles\\test.dir\\src\\hit.cpp.obj -c \"C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\hit.cpp\"",
+  "file": "C:\\mipt\\coding-3-sem\\4 sem\\task\\src\\hit.cpp",
+  "output": "CMakeFiles\\test.dir\\src\\hit.cpp.obj"
+}
+]
